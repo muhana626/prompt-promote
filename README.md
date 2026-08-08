@@ -74,7 +74,7 @@ prompt-promote/
 3. ✅ 起草模板 v0.1 + SKILL.md
 4. ✅ 测加工后效果（污染 4.65 → 4.92）
 5. ✅ 按失败案例迭代（v0.1.1：协议泄漏 + 事实边界收紧，回归通过）
-6. 🔄 开源发布（README / LICENSE / examples / 评测集整理已完成；待发布到 Gitee + GitHub）
+6. ✅ 开源发布
 
 ## License
 
