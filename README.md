@@ -2,7 +2,7 @@
 
 **Messy in, faithful out.** An Agent skill that normalizes messy user prompts into structured standard prompts *internally* — then executes them faithfully. Single pass, near-zero overhead.
 
-**[English](README.md) | [简体中文](README.zh-CN.md)** · v0.1.1 · [MIT](LICENSE)
+**[English](README.md) | [Chinese](README.zh-CN.md)** · v0.1.1 · [MIT](LICENSE)
 
 ---
 
@@ -12,9 +12,9 @@ Real prompts are messy. They arrive as half-sentences, walls of noise, three tas
 
 The cost isn't style. It's **intent**:
 
-- *"帮我优化简历"* → the model invents a project you never did
-- *"写封请假邮件"* → the model borrows your chat history as an excuse you never gave
-- *"13 人排班，别背靠背休息"* → the model misses the Sunday→Monday boundary
+- *"Help me polish my resume"* → the model invents a project you never did
+- *"Write me a sick-leave email"* → the model borrows your chat history as an excuse you never gave
+- *"Schedule 13 people, no back-to-back rest days"* → the model misses the Sunday→Monday boundary
 
 One wrong assumption can ruin a resume, an email, a schedule. prompt-promote exists to keep that from happening.
 
